@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7AC0CA10-2841-4BE1-8398-A246D4905930</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BitmakerLabsDay2_samples</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5B70BF10E11516F6BF711774AE0415AC9B78C331</key>
+		<string>https://github.com/daniel2234/BitmakerChallengesDay2.git</string>
+		<key>AD78C652D5EFD5257C769810D257149D96AEB078</key>
+		<string>https://github.com/daniel2234/BitmakerChallengesDay2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BitmakerLabsDay2_samples.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5B70BF10E11516F6BF711774AE0415AC9B78C331</key>
+		<string>../../..</string>
+		<key>AD78C652D5EFD5257C769810D257149D96AEB078</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/daniel2234/BitmakerChallengesDay2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AD78C652D5EFD5257C769810D257149D96AEB078</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5B70BF10E11516F6BF711774AE0415AC9B78C331</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AD78C652D5EFD5257C769810D257149D96AEB078</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BitmakerLabsDay2_samples</string>
+		</dict>
+	</array>
+</dict>
+</plist>
