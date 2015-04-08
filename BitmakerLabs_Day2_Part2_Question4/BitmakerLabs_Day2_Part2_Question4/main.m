@@ -13,7 +13,7 @@ int main(int argc, const char * argv[]) {
         int answer, result;
         answer = 100;
         result = answer - 10;
-        NSLog(@"The result is %i\n", result + 5);
+        NSLog(@"The result is %i\n", result + 5); // this will print out the result of 95
     }
     return 0;
 }
